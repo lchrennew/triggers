@@ -1,0 +1,6 @@
+kind: listener
+name: listener-1
+metadata:
+  title: listener-1
+spec:
+  triggers: []
